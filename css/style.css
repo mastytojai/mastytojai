@@ -1,0 +1,47 @@
+body {
+  background-image: url("../images/emoji.gif");
+  background-repeat: no-repeat;
+  background-size:cover;
+
+}
+a {
+  text-transform: uppercase;
+  font-family: 'Black Han Sans', sans-serif;
+    color: white;
+}
+#login {
+  width: 35%;
+  height: 600px;
+  background-color: transparent;
+
+  margin: 0 auto;
+  margin-top: 150px;
+}
+
+#login #prisijungimas {
+  color: white;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: 'Black Han Sans', sans-serif;
+  font-size: 80px;
+  padding-top: 40px;
+}
+#login #mygt {
+  text-transform: uppercase;
+  font-family: 'Black Han Sans', sans-serif;
+    color: white;
+
+}
+
+#login #formm {
+  padding-top: 450px;
+  display: block;
+  width: 55%;
+  margin: 0 auto;
+}
+
+#login input {
+  background-color: transparent;
+  border-style: solid;
+  border-color: white;
+}
