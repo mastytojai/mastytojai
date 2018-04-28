@@ -17,11 +17,9 @@
 	<input id="mygt" type="submit" value="Submit">
 </form>
 
-</div>'
-	}
+</div>
+	';}
 ?>
-
-
 </body>
 
 </html>
